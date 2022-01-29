@@ -90,7 +90,7 @@ def main():
     print_heating_result(energy_total, mass, temp_init, end_temp, melted, vaporized)
 
 main()
-git init
+
 
                 
                 
